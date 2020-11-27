@@ -194,10 +194,10 @@ def cum():
 
     time.sleep(1)
 
-    #PressKey(VK_MENU)
-    #PressKey(PKey)
-    #ReleaseKey(VK_MENU)
-    #ReleaseKey(PKey)
+    PressKey(VK_MENU)
+    PressKey(PKey)
+    ReleaseKey(VK_MENU)
+    ReleaseKey(PKey)
 
 if __name__ == "__main__":
     cum()
